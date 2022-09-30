@@ -12,8 +12,16 @@
 
 <br />
 
+# ⭐️ 我的博客
+
+[👉 点击链接访问博客](https://blog.chen.bz)
+
+<br />
+
 # 🚀 我的开源项目
 
 - [GitHub](https://github.com/chenbz777)
 - [Npm](https://www.npmjs.com/~chenbz)
 - [Docker](https://hub.docker.com/u/chenbz777)
+
+<br />
